@@ -1,6 +1,6 @@
 const player = new Plyr( '#player' , {
   controls : ['play', 'progress', 'fullscreen'],
   muted: false,
-  duration: 1,
+  duration: 64,
   
 } );
